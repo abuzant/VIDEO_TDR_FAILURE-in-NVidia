@@ -25,6 +25,7 @@
 13. [What I Am Doing Next](#13-what-i-am-doing-next)
 14. [What You Can Do If This Is Happening to You](#14-what-you-can-do-if-this-is-happening-to-you)
 15. [Appendices: Full Dump Output, Commands, References](#15-appendices)
+16. [Community Discussion on Reddit, 100's of similar cases](https://www.reddit.com/r/LenovoLegion/comments/1tn5os7/three_laptops_three_months_one_bug_a_deepdive/)
 
 ---
 
